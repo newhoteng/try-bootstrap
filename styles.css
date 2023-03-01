@@ -1,0 +1,23 @@
+p {
+  color: #172b4d;
+  line-height: 32px;
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 40px;
+  color: #172b4d;
+}
+
+.light-green-buttons {
+  background-color: #ebf0ee;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.white-buttons {
+  background-color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  color: #36b37e;
+}
